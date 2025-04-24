@@ -80,22 +80,3 @@ Before you begin, ensure you have:
 ## **Step 10: Automate Remediation (Optional)**
 1. Use **Automation** in Defender for Cloud to automate responses to specific alerts.
 2. Set up **Logic Apps** or **Azure Functions** to take action based on alerts (e.g., auto-remediate vulnerabilities).
-
----
-
-## **Conclusion**
-By following these steps, you've successfully set up Microsoft Defender for Cloud in your Azure environment to ensure that your cloud resources are secure. Microsoft Defender for Cloud provides visibility and control over your security posture, helping you to prevent, detect, and respond to threats.
-
----
-
-## **Posting to GitHub**
-1. Create a repository on GitHub by going to [GitHub](https://github.com) and clicking on **New**.
-2. Name your repository and choose the visibility (public or private).
-3. Create a **README.md** file in your repository.
-4. Paste the guide above into the README.
-5. Add additional resources or a section for troubleshooting if desired.
-6. Commit and push your changes.
-
----
-
-This guide should help others set up Defender for Cloud in Azure. You can customize it to include any specific security settings or configurations unique to your organization.
